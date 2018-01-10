@@ -180,7 +180,9 @@ function makePerson(name, birthday, ssn){
   }
   return person
 }
-makePerson("Tanner","9/16", "8808838392")
+makePerson("Tanne2424r","9/16", "88088385436423392")
+makePerson("Tanner","9/16", "242")
+
 
 
 
